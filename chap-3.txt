@@ -1,0 +1,3 @@
+Url after making repository ... we get a url ..everthing in our project shows there and others can see..called remote repository
+Remote ..called orgin (nickname for repo) ...gh is used for authentication
+
